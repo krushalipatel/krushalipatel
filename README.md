@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krushali Patel</h1>
 <h3 align="center">Welcome to my journey! I have obtained a Master's Degree in Management Information Systems (MIS) sopecializing in Business intelligence and Analytics at Stevens Institute of Technology, I'm an aspiring Data Analyst eager to apply academic knowledge in the dynamic world of data analysis and business intelligence.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krushalipatel&label=Profile%20views&color=0e75b6&style=flat" alt="krushalipatel" /> </p>
+
 - 🔭 I’m currently working on **my portfolio, Data Analysis and Visualisation projects**
 
 - 💬 Ask me about **Data Analysis and Visualization**
